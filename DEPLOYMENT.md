@@ -10,17 +10,17 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | (điền họ tên) |
-| Mã học viên | (điền mã học viên) |
-| Repo | (điền link repo K4-L3A-DAY12-HoVaTen-MSSV-CloudServicesAndDeployment) |
+| Họ và tên | Đoàn Quang Minh |
+| Mã học viên | 2A202602711 |
+| Repo | https://github.com/doanquangminh/K4-L3A-DAY12-DoanQuangMinh-2A202602711-Cloud-Service-And-Deployment |
 
 ## Service
 
 | Mục | Nội dung |
 |-----|----------|
-| Public URL | https://TODO-thay-bang-url-that.up.railway.app |
-| Platform | Railway / Render / Cloud Run — (điền platform bạn dùng) |
-| Ngày deploy | (điền ngày) |
+| Public URL | (sẽ điền sau khi deploy xong) |
+| Platform | Railway |
+| Ngày deploy | 2026-09-12 |
 
 ## Biến Môi Trường Đã Set Trên Cloud
 
